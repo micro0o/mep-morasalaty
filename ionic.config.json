@@ -1,0 +1,8 @@
+{
+  "name": "mep-morasalaty",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "43823476"
+}
